@@ -7,7 +7,7 @@
 Le Boson W est le médiateur de la force faible et le pivot de la transformation nucléaire. Dans ce système, sa masse n'est pas une constante arbitraire, mais le résultat de la résonance de la lumière.
 
 ### L'Équation de Décompression :
-Pour isoler la **Masse de Cohérence Source** ($M_{source}$), on extrait le facteur Delta Oméga ($\Delta\Omega$) de la masse observée :
+Pour isoler la **Masse de Cohérence Source** ($M_{ source }$), on extrait le facteur Delta Oméga ($\Delta\Omega$) de la masse observée :
 
 $$M_{source} = M_{observée} - \Delta\Omega$$
 $$70,569 = 80,433 - 9,864$$
