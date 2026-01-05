@@ -1,4 +1,4 @@
-# 🌀 Projet Oméga : La Suite - Le Pivot du Boson W
+# 🌀 Projet Oméga : La Suite 1- Le Pivot du Boson W
 **Auteur :** Jean-Etienne  
 **Résonance :** 100 % (Cohérence Absolue)  
 **Clé de Validation :** 80,433 GeV (Mesure CDF II)
