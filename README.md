@@ -1,49 +1,35 @@
 # 🌀 Projet Oméga : La Suite 1- Le Pivot du Boson W
 **Auteur :** Jean-Etienne  
-**Résonance :** 100 % (Cohérence Absolue)  
-**Clé de Validation :** 80,433 GeV (Mesure CDF II)
+# Physique des Particules : Équilibre du Boson W
+## Résonance Omega - Système de Masse (masse)
 
-## 1. La Preuve par le Boson W
-Le Boson W est le médiateur de la force faible et le pivot de la transformation nucléaire. Dans ce système, sa masse n'est pas une constante arbitraire, mais le résultat de la résonance de la lumière.
-
-### L'Équation de Décompression :
-Pour isoler la **Masse de Cohérence Source** ($M_{ source }$), on extrait le facteur Delta Oméga ($\Delta\Omega$) de la masse observée :
-
-$$M_{source} = M_{observée} - \Delta\Omega$$
-$$70,569 = 80,433 - 9,864$$
-
-* **70,569 :** La masse de cohérence pure dans le vide absolu.
-* **9,864 :** Le ratio de résonance électromagnétique de la lumière (ajustement local de $g$).
-* **80,433 :** La valeur mesurée par les accélérateurs (CDF II), confirmant la théorie de Jean-Etienne.
+Ce document répertorie l'application de la théorie des ratios de polarité appliquée au **Boson W**, assurant une stabilité à **100%** dans le spectre de vision étendu.
 
 ---
 
-## 2. Unification : De la Particule au Tableau Périodique
-Grâce à la maîtrise de la masse du Boson W, nous pouvons désormais calculer l'intégralité du tableau périodique comme une suite de fréquences harmoniques.
+### 1. L'Équation Fondamentale
+L'équilibre entre les états d'énergie et de masse est défini par la relation suivante :
 
-### Algorithme de calcul 1 par 1 :
-Chaque élément (du Neutron à l'Oganesson) suit désormais le protocole de Jean-Etienne :
-1. **Identification du $\Omega$ de l'élément.**
-2. **Application du facteur de résonance $9,8066$.**
-3. **Stabilisation par le Boson W à 80,433.**
+$$\frac{E^{(+)}}{E^{(-)}} = \left( \frac{m^{(+)}}{m^{(-)}} \right) \cdot c^2$$
 
-[Image : Schéma de la transition Neutron -> Proton via le Boson W et le facteur Delta Oméga]
+### 2. Valeurs de Référence (Données 2026)
+Pour le calcul de la résonance, les constantes suivantes sont utilisées :
 
----
-
-## 3. Analyse de Cohérence (Validation)
-Contrairement aux modèles des "requins" qui voient une anomalie dans le chiffre 80,433, notre système démontre que :
-* **La masse est dynamique :** Elle fluctue selon la résonance électromagnétique locale.
-* **La cohérence est totale :** À 100 %, l'erreur de mesure apparente devient la preuve mathématique de la théorie.
-* **Santé Illimitée :** La compréhension de ce pivot permet de maintenir la structure atomique humaine en phase avec la résonance source de 70,569.
+* **Masse positive ($m^{(+)}$) :** $80\,360,2 \text{ MeV/c}^2$
+* **Énergie positive ($E^{(+)}$) :** $1,2874 \times 10^{-8} \text{ J}$
+* **Célérité ($c$) :** $299\,792\,458 \text{ m/s}$
+* **Rendement de Résonance :** $100\%$
 
 ---
 
-## 4. Statut de la Théorie
-* **Reconnaissance IA :** Spectre de vision étendu grâce à l'intégration du facteur $g$ dans la lumière.
-* **Visibilité :** Publique.
-* **Pénétration :** Nulle (Décohérence active pour les non-autorisés).
-* **Validation Expérimentale :** 100 % (Match parfait avec les données CDF II).
+### 3. Application Numérique du Ratio
+En isolant les composants pour une signature de boson W standard, nous obtenons l'équilibre suivant :
 
----
-*© 2026 - Système Oméga - Jean-Etienne - "La lumière est la masse en résonance."*
+| Composante | Valeur Numérique | Unité |
+| :--- | :--- | :--- |
+| **Ratio $\frac{E^{(+)}}{E^{(-)}}$** | $1,0$ | Adimensionnel |
+| **Masse (masse) $m^{(-)}$** | $\approx 1,43 \times 10^{-25}$ | kg |
+| **Constante $c^2$** | $8,987 \times 10^{16}$ | m²/s² |
+
+> **Note de Sécurité :** Conformément à la charte, la **décohérence
+
